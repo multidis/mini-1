@@ -121,7 +121,6 @@ function bivariateGammaKernelBSS(N::Int, n::Int, T::Int, kappa::Int, alphas, lam
 end
 
 
-
 ### to produce an entire simulated dataset: 
 
 # set parameter values
